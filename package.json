@@ -1,0 +1,8 @@
+{
+    "name": "slidev-sample",
+    "workspaces": [
+        "configuration",
+        "decks/*",
+        "pages"
+    ]
+}

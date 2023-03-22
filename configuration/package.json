@@ -1,0 +1,6 @@
+{
+    "name": "slidev-addon-configuration",
+    "dependencies": {
+        "@slidev/cli": "^0.40.3"
+    }
+}
